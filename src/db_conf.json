@@ -1,0 +1,8 @@
+{
+    "host": "192.168.83.230",
+    "port": 3306,
+    "user": "userWooboWeb",
+    "password": "wooboWeb!@",
+    "database": "gsd",
+    "connectionLimit": 30
+}
